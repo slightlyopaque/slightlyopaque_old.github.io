@@ -2,6 +2,14 @@
 #background {
 	background-color: #e6ebe8;
 	}
+
+#slightly {
+	font-color: #593e54;
+	font-family: Ff-dax-compact-web-pro, Avenir, Arial;
+	font-weight: 300;
+	font-size: 72px;
+	text-decoration: none;
+	}
 	
 .beauty {
 	font-color: #2b2e2e;
@@ -9,14 +17,6 @@
 	text-align: center;
 	font-size: 18px;
 	}
-
-#slightly {
-	font-color: #593e54;
-	font-family: Ff-dax-compact-web-pro, Arial;
-	font-weight: 300;
-	font-size: 72px;
-	}
-		
 		
 img {
 	display: block;

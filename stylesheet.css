@@ -17,6 +17,7 @@
 	font-size: 72px;
 	}
 		
+		
 img {
 	display: block;
 	height: 100px;
@@ -36,3 +37,15 @@ div {
     border-width: 2px;
     border-radius:2px;
 }
+
+
+/* a:link { 
+    text-decoration:none;
+    color: #008b45;
+}
+a:hover {
+    color: #00ff00;
+}
+a:visited {
+    color: #339a00;
+}*/

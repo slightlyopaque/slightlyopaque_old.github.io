@@ -3,6 +3,16 @@
 	background-color: #e6ebe8;
 	}
 	
+.beauty {
+	font-color: #2b2e2e;
+	font-family: Garamond, serif;
+	}
+
+#slightly {
+	font-color: #2b2e2e;
+	font-family: Avenir, Helvetica Neue, sans-serif;
+	}
+		
 img {
 	display: block;
 	height: 100px;
@@ -12,7 +22,6 @@ img {
 
 p {
 	text-align: center;
-	font-family: Garamond, serif;
 	font-size: 18px;
 }
 div {

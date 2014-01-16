@@ -74,26 +74,20 @@ a:visited {
 	position: relative;
 	height: 40px;
 	padding:0px;
-	background-color: #668284;
+/*	background-color: #668284; */
 	clear: both;
 	font-family: Garamond, serif;
 	font-size: 14px;
 	text-align: center;
-	color: #ffffff;
+	color: #593e54;
 }
 
-#footer p {
-	position: relative;
-	padding: 10px;
 }
 
 #email{
 	float:right;
 	margin-right: 5px;
 	padding: 10px;
-	font-size: 16px;
-	font-family: Garamond, serif;
-	color: #ffffff;
 	position: relative;
 }
 
@@ -101,8 +95,5 @@ a:visited {
 	float:left;
 	margin-left: 5px;
 	padding: 10px;
-	font-size: 16px;
-	font-family: Garamond, serif;
-	color: #ffffff;
 	position: relative;
 }

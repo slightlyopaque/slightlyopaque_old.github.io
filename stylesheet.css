@@ -36,6 +36,7 @@ div {
     border-style: dashed;
     border-width: 2px;
     border-radius:2px;
+    position: fixed;
 }
 
 
@@ -49,3 +50,43 @@ a:hover {
 a:visited {
     color: #339a00;
 }*/
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 50px;
+	background-color: #668284;
+	margin-bottom: 10px;
+}
+
+#footer {
+	position: relative;
+	height: 40px;
+	padding:0px;
+	background-color: #668284;
+	clear: both;
+	font-family: Garamond, serif;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Garamond, serif;
+	color: #ffffff;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Garamond, serif;
+	color: #ffffff;
+}

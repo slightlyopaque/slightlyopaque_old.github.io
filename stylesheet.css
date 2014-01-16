@@ -90,17 +90,19 @@ a:visited {
 #email{
 	float:right;
 	margin-right: 5px;
-	padding-top: 5px;
+	padding: 10px;
 	font-size: 16px;
 	font-family: Garamond, serif;
 	color: #ffffff;
+	position: relative;
 }
 
 #name {
 	float:left;
 	margin-left: 5px;
-	padding-top: 5px;
+	padding: 10px;
 	font-size: 16px;
 	font-family: Garamond, serif;
 	color: #ffffff;
+	position: relative;
 }

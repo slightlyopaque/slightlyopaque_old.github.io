@@ -3,8 +3,8 @@
 	background-color: #e6ebe8;
 	}
 
-#slightly {
-	font-color: #593e54;
+#logo {
+	color: #593e54;
 	font-family: Ff-dax-compact-web-pro, Avenir, Arial;
 	font-weight: 300;
 	font-size: 72px;
@@ -12,7 +12,7 @@
 	}
 	
 .beauty {
-	font-color: #2b2e2e;
+	color: #2b2e2e;
 	font-family: Garamond, serif;
 	text-align: center;
 	font-size: 18px;

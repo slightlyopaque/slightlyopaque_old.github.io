@@ -2,7 +2,7 @@
 layout: post
 title:  "Reality Check: Where Is Work Actually Taking Place?"
 date:   2012-06-09 21:19:55
-categories: article
+categories: jekyll update
 ---
 
 <img src="/images/IMG_1698.JPG" class="half-width left" />

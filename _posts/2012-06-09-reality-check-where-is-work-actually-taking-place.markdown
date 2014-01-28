@@ -5,7 +5,7 @@ date:   2012-06-09 21:19:55
 categories: jekyll update
 ---
 
-<img src="/images/IMG_1698.JPG" class="half-width left" />
+<img src="/images/IMG_1670.JPG" class="half-width left" />
 
 ## Dies ist eine Überschrift
 Every morning at work I am asked what I did the day before. And every morning I have to say: " I'm sorry. I don't remember."

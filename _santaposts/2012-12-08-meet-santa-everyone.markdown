@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: santapost
 title:  "Meet Santa, Everyone."
 date:   2012-12-08 21:19:55
 categories: jekyll update

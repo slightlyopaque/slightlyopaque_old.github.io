@@ -13,7 +13,6 @@ Statistics are fun. Big fun. Especially when you have a knowledge base regarding
 
 I had my share when I picked up social science studies and even though I was far more interested in empirical research, I at least got the slight knowledge of _how not to do statistics_. Unfortunately, others didn't. Even worse: they believe in those funny numbers and beautifully designed charts.
 
-##jump##
 
 In [another article][2] I already started this trilogy about problems coming with the holy grail performance feedback and focused on the _Who is doin' it_-question.  
 This time I want to explain what kind of _technical problems_ you might experience. We can call it the _What can go wrong_-question.  

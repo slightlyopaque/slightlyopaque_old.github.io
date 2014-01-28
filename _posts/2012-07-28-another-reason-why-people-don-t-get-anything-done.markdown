@@ -18,8 +18,6 @@ categories: jekyll update
 
 This is how I get promoted. Joke. This is how I get more tasks. More things on my list. And less time to do the other stuff I am supposed to do at work.
 
-##jump##
-
 There are a couple of tasks that aren't my job but I took care of them sometimes. Usually I did it because no one else thought about it or I had some spare time and helped out. Very soon, I talk about _after one or two times_, it was clear to some people that these were my tasks. If I didn't do them, nobody would. And, by the way, "why haven't you already done it?".  So they didn't thank me for filling in but assumed I didn't keep up with my tasks.  
 
 Since I already have my hands full and a lot on my mind anyway, that doesn't diminish my stress level.

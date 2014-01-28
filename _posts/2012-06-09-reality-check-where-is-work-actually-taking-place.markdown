@@ -13,7 +13,6 @@ Every morning at work I am asked what I did the day before. And every morning I 
 
 That is not because of a badly covered hangover. At least not always.
 
-##jump##
 
 It is because of time I spent listening to people talking about things that aren't of any or only little interest for me and my job.
 

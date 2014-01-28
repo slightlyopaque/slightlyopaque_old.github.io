@@ -7,6 +7,9 @@ categories: jekyll update
 
 <img src="/images/IMG_1702.JPG" class="half-width right" />
 
+##Stop Working, You Might Kill Everything
+
+
 Yes, yes, yes. Security and safety are important. Especially at work. A hairdresser should be aware of the sharpness of his scissors as a pharmacist should know something about the drugs he's handing out.   Every tool on our hand is only as effective as we let it be or know how to use it and most tools can be quite dangerous if misused.  
 
 So much for the panic.

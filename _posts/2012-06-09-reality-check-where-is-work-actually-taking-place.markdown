@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Reality Check: Where Is Work Actually Taking Place?"
+date:   2012-06-09 21:19:55
+categories: article
+---
+
+<img src="/images/IMG_1698.JPG" class="half-width left" />
+
+## Dies ist eine Überschrift
 Every morning at work I am asked what I did the day before. And every morning I have to say: " I'm sorry. I don't remember."
 
 That is not because of a badly covered hangover. At least not always.

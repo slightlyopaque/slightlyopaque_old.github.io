@@ -7,8 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1670.JPG" class="half-width left" />
 
-## Meet Santa, Everyone.
-
 
 
 

@@ -7,7 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1692.JPG" class="half-width left" />
 
-##The Devil's Advocate: Who Needs To Be Managed?
 
 I guess there are trillions of jokes about the question how many managers does it take to change a light bulb, to open a door or to solve similar simple tasks.   
 Don't worry, I won't gather them here.  

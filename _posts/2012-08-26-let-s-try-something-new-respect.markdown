@@ -7,15 +7,12 @@ categories: jekyll update
 
 <img src="/images/IMG_1770.JPG" class="half-width left" />
 
-##Let's Try Something New: Respect
 
 < attention: rant >
 
 Word of advice: If you want to work in a _kindergarten_, treat your employees like children. If you prefer to work somewhere else, treat them differently.
 
 Sounds easy? Well.
-
-##jump##
 
 It is the small things that show what you think of your employees and whether you trust them. Let me give you an example:
 

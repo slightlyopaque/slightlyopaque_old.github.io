@@ -7,15 +7,12 @@ categories: jekyll update
 
 <img src="/images/IMG_0410.JPG" class="half-width right" />
 
-## Why The Shit's Not Working: The Problem With Outsourcing
-
-
 There are trillions of nicely designed apps and programs running our world. They are created to make our life easier or our work more efficient and still they are quite often a pain in the ass. Not only because their appearance is a disaster or they never saw a quality assurance and are buggy to no end but because they aren't - what they call it - _intuitive_. They are too complicated to use. They are, to put it plainly, no fun at all. 
 
 
 If I have to - basically - _learn_ how an application behaves beforehand, than there obviously is something wrong. I want it running and I want it now.  
 
-## The idea is good but the world...
+### The idea is good but the world...
 
 Usually, the problem lies in the developing process. 
 

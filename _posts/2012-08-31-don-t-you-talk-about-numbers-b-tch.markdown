@@ -7,7 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1698.JPG" class="half-width left" />
 
-##Don't You Talk About Numbers, B*tch
 
 
 Write a hundred times:  

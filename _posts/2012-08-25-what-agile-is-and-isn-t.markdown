@@ -7,7 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1617.JPG" class="half-width left" />
 
-##What Agile Is - And Isn't
 
 Working with the scrum process has its benefits. Every three weeks the team estimates how much work the new feature requests will mean and decides how to do them.   
 It is _agile_ because the sprint only runs for a specific amount of time (e.g. three weeks) and therefore the planning of new features don't have to be done months in advance.  

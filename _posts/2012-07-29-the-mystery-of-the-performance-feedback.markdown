@@ -7,7 +7,7 @@ categories: jekyll update
 
 <img src="/images/IMG_1584.JPG" class="half-width left" />
 
-## The Mystery Of The Performance Feedback
+
 
 Feedback is crucial. From feedback, we learn. Sometimes, it's easily done, when, for example, your computer just doesn't react the way you expected because you hit the wrong button. Sometimes you even get a helpful error message. But there are moments, where the feedback you get doesn't make any sense or is not helpful. And this is not a problem exclusively found in human-machine-interaction.
 

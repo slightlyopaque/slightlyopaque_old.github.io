@@ -7,7 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1697.JPG" class="half-width left" />
 
-##Advertise Your Stuff - But Spare Me The Usual Crap, Thanks.
 
 Probably the most important thing next to constant development of new stuff for your product / your website / your company is to show it. 
 

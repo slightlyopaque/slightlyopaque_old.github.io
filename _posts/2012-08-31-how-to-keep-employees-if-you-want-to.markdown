@@ -7,7 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1765.JPG" class="half-width left" />
 
-##How To Keep Employees (If You Want To)
 
 
 Every company experiences a certain fluctuation of their employees.  

@@ -7,8 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1670.JPG" class="half-width left" />
 
-## Reality Check: Where Is Work Actually Taking Place?
-
 Every morning at work I am asked what I did the day before. And every morning I have to say: " I'm sorry. I don't remember."
 
 That is not because of a badly covered hangover. At least not always.

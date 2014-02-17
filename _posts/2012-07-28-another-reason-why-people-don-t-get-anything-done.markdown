@@ -7,7 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1580.JPG" class="half-width left" />
 
-## Another Reason Why People Don't Get Anything Done
 
 "Hi. Have you taken care of \[any recurring task that is _not_ your responsibility\]? Or did you forget?"  
 "Eh... no. This is Michael's task. Shouldn't you take over when he's ill?"  

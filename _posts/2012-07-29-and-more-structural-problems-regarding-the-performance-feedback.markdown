@@ -7,8 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_0476.JPG" class="half-width left" />
 
-## And More (Structural) Problems Regarding The Performance Feedback
-
 Statistics are fun. Big fun. Especially when you have a knowledge base regarding statistics of _zero_.
 
 I had my share when I picked up social science studies and even though I was far more interested in empirical research, I at least got the slight knowledge of _how not to do statistics_. Unfortunately, others didn't. Even worse: they believe in those funny numbers and beautifully designed charts.

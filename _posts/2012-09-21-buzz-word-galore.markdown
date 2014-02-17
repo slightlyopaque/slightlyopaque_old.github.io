@@ -7,9 +7,6 @@ categories: jekyll update
 
 <img src="/images/IMG_1765.JPG" class="half-width left" />
 
-##Buzz Word Galore
-
-
 Language is a difficult thing. It can be used to describe a phenomenon accurately or to make a picture swing. 
 
 Quite often though, it is the speaker or writer who is used by the language, it seems. 

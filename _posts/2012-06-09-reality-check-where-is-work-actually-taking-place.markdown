@@ -40,7 +40,7 @@ Communication is crucial. Especially when it comes to [immaterial labour][2] (re
 
 Over the last years we saw the rise of self management and holistic entrepreneurship - you don't only sell your work but your personality - not only in startups but in big and settled companies as well. Today you usually won't only be hired because you have good technical skills but because of your fascinating personality. Or because you know the right people, but that's more or less the same.  
 
-> ##right## Befriend your colleagues. Consider your team as your best buddies.  
+> ## Befriend your colleagues. Consider your team as your best buddies.  
 
 Of course, to some extend that makes perfectly sense. If you work in a team - and nowadays people usually do because it's still state of the art - you'll want your colleagues to be team player. HR will make sure you'll even consider to have a drink with them afterwards. Because the perfect employee doesn't feel like an employee at all. Feel like home, gather with people you like. Do stuff you love and even get paid for it. Befriend your colleagues. Consider your team as your best buddies. 
 

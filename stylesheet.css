@@ -98,3 +98,7 @@ a:visited {
 	padding: 10px;
 	position: relative;
 }
+
+.posts img {
+	width: 150px;
+}

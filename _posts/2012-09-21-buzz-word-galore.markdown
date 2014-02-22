@@ -3,6 +3,7 @@ layout: post
 title:  "Buzz Word Galore"
 date:   2012-09-21 21:19:55
 categories: jekyll update
+image_thumbnail: /images/IMG_1765.JPG
 ---
 
 <img src="/images/IMG_1765.JPG" class="half-width left" />

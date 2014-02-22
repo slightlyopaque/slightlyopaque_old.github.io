@@ -23,16 +23,20 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
-h2 {text-align: center; 
-	font-size: 1.5em; 
-	font-weight: light; 
-	font: Times;
-	margin-top: 1em;}
+.post h1 {text-align: center; 
+	font-size: 1.8em; 
+	 
+	font-family: Avenir;
+	margin-top: 1em;line-height: 1.3;font-weight: 100;font-variant: small-caps;}
 p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
+
+nav {
+	text-align: right;
+}
 
 /*****************************************************************************/
 /*
@@ -46,12 +50,14 @@ a:visited { color: #a0a; }
 
 .posts li {
   line-height: 1.75em;
+  margin-bottom: 10px;
 }
 
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+  float: right;
 }
 
 /*****************************************************************************/
@@ -112,6 +118,7 @@ footer {
   overflow: hidden;
   width: 42em;
   margin: 3em auto 2em;
+  clear: both;
 }
 
 
@@ -166,4 +173,18 @@ footer {
 .right {
 	float: right;
 	margin: 0 0px 20px 20px;
+}
+
+.posts img {
+	width: 150px;
+	float: left;
+	padding: 49px 10px 10px 0;
+}
+
+.posts a {
+	display: block;
+}
+
+.posts p {
+	padding-left: 161px;
 }

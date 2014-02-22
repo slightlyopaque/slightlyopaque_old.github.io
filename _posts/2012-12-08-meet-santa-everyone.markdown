@@ -1,13 +1,14 @@
 ---
-layout: santapost
+layout: santa
+category: santa
 title:  "Meet Santa, Everyone."
 date:   2012-12-08 21:19:55
-categories: jekyll update
+categories: santa
 ---
 
 <img src="/images/IMG_1670.JPG" class="half-width left" />
 
-
+asdasd
 
 
 ![](http://s3-eu-west-1.amazonaws.com/slightlyopaque/images/87/large/Sketch_2013-12-15_13_55_36.png?1388495552)

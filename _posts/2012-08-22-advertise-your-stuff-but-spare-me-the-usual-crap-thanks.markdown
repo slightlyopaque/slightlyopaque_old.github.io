@@ -3,7 +3,6 @@ layout: post
 category: work
 title:  "Advertise Your Stuff - But Spare Me The Usual Crap, Thanks."
 date:   2012-08-22 20:19:55
-categories: jekyll update
 image_thumbnail: /images/IMG_1697.JPG
 ---
 

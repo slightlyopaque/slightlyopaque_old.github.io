@@ -3,7 +3,6 @@ layout: post
 category: work
 title:  "How To Keep Employees (If You Want To)"
 date:   2012-08-31 21:19:55
-categories: jekyll update
 image_thumbnail: /images/IMG_1765.JPG
 ---
 

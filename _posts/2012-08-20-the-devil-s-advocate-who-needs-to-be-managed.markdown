@@ -3,7 +3,6 @@ layout: post
 category: work
 title:  "The Devil's Advocate: Who Needs To Be Managed?"
 date:   2012-08-14 20:19:55
-categories: jekyll update
 image_thumbnail: /images/IMG_1692.JPG
 ---
 

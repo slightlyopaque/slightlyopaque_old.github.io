@@ -3,7 +3,6 @@ layout: post
 category: work
 title:  "Reality Check: Where Is Work Actually Taking Place?"
 date:   2012-06-09 21:19:55
-categories: jekyll update
 image_thumbnail: /images/IMG_1670.JPG
 ---
 

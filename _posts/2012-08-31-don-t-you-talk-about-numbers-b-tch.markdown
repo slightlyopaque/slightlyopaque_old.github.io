@@ -3,7 +3,6 @@ layout: post
 category: work
 title:  "Don't You Talk About Numbers, B*tch"
 date:   2012-08-31 20:19:55
-categories: jekyll update
 image_thumbnail: /images/IMG_1698.JPG
 ---
 

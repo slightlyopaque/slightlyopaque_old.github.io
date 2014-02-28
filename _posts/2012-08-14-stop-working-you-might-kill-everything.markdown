@@ -3,7 +3,6 @@ layout: post
 category: work
 title:  "Stop Working, You Might Kill Everything"
 date:   2012-08-14 20:19:55
-categories: jekyll update
 image_thumbnail: /images/IMG_1702.JPG
 ---
 

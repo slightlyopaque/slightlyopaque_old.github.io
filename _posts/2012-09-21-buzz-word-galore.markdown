@@ -3,7 +3,6 @@ layout: post
 category: work
 title:  "Buzz Word Galore"
 date:   2012-09-21 21:19:55
-categories: jekyll update
 image_thumbnail: /images/IMG_2061.JPG
 ---
 

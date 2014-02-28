@@ -3,17 +3,17 @@ layout: default
 title: Your New Jekyll Site
 ---
 
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-      <span>{{ post.date | date_to_string }}</span> 
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <img src="{{post.image_thumbnail}}" />
-       <p>{{ post.content | strip_html | truncatewords:75}}</p>
-       
-      </li>
-    {% endfor %}
-  </ul>
+<h1>Blog Posts</h1>
+<ul class="posts">
+{% for post in site.posts %}
+<li>
+<span>{{ post.date | date_to_string }}</span> 
+<a href="{{ post.url }}">{{ post.title }}</a>
+<img src="{{post.image_thumbnail}}" />
+<p>{{ post.content | strip_html | truncatewords:75}}</p>
+
+ </li>
+{% endfor %}
+</ul>
   
  

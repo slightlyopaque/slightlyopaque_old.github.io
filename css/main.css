@@ -51,13 +51,17 @@ nav {
 .posts li {
   line-height: 1.75em;
   margin-bottom: 10px;
+  overflow: auto;
 }
+
+.posts li:nth-child(even) img { float:right; }
 
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
   float: right;
+  padding: 0;
 }
 
 /*****************************************************************************/
@@ -69,7 +73,7 @@ nav {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 45em;
   margin: 3em auto 2em;
   line-height: 1.5em;
   min-height: 800px;
@@ -178,7 +182,7 @@ footer {
 .posts img {
 	width: 150px;
 	float: left;
-	padding: 49px 10px 10px 0;
+	padding: 48px 10px 10px 10px;
 }
 
 .posts a {

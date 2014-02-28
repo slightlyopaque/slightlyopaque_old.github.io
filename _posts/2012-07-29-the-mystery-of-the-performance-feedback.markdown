@@ -1,8 +1,10 @@
 ---
 layout: post
+category: work
 title:  "The Mystery Of The Performance Feedback"
 date:   2012-07-29 20:19:55
 categories: jekyll update
+image_thumbnail: /images/IMG_1584.JPG
 ---
 
 <img src="/images/IMG_1584.JPG" class="half-width left" />

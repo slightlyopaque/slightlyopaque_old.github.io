@@ -1,12 +1,13 @@
 ---
 layout: post
+category: work
 title:  "Buzz Word Galore"
 date:   2012-09-21 21:19:55
 categories: jekyll update
-image_thumbnail: /images/IMG_1765.JPG
+image_thumbnail: /images/IMG_2061.JPG
 ---
 
-<img src="/images/IMG_1765.JPG" class="half-width left" />
+<img src="/images/IMG_2061.JPG" class="half-width left" />
 
 Language is a difficult thing. It can be used to describe a phenomenon accurately or to make a picture swing. 
 

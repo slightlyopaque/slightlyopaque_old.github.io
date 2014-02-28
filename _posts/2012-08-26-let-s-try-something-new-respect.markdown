@@ -1,8 +1,10 @@
 ---
 layout: post
+category: work
 title:  "Let's Try Something New: Respect"
 date:   2012-08-26 20:19:55
 categories: jekyll update
+image_thumbnail: /images/IMG_1770.JPG
 ---
 
 <img src="/images/IMG_1770.JPG" class="half-width left" />

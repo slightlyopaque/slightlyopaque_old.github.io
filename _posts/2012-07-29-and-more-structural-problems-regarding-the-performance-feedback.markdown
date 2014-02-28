@@ -1,8 +1,10 @@
 ---
 layout: post
+category: work
 title:  "And More (Structural) Problems Regarding The Performance Feedback"
 date:   2012-07-29 21:19:55
 categories: jekyll update
+image_thumbnail: /images/IMG_0476.JPG
 ---
 
 <img src="/images/IMG_0476.JPG" class="half-width left" />

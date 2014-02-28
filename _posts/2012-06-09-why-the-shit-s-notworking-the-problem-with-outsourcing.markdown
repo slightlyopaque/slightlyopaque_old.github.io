@@ -1,8 +1,10 @@
 ---
 layout: post
+category: work
 title:  "Why The Shit's Not Working: The Problem With Outsourcing"
 date:   2012-06-10 16:19:55
 categories: jekyll update
+image_thumbnail: /images/IMG_0410.JPG
 ---
 
 <img src="/images/IMG_0410.JPG" class="half-width right" />

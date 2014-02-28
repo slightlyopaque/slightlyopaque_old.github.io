@@ -1,8 +1,10 @@
 ---
 layout: post
+category: work
 title:  "Another Reason Why People Don't Get Anything Done"
 date:   2012-07-28 21:19:55
 categories: jekyll update
+image_thumbnail: /images/IMG_1580.JPG
 ---
 
 <img src="/images/IMG_1580.JPG" class="half-width left" />

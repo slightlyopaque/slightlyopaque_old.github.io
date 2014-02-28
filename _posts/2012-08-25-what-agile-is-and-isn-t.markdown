@@ -1,8 +1,10 @@
 ---
 layout: post
+category: work
 title:  "What Agile Is - And Isn't"
 date:   2012-08-25 20:19:55
 categories: jekyll update
+image_thumbnail: /images/IMG_1617.JPG
 ---
 
 <img src="/images/IMG_1617.JPG" class="half-width left" />

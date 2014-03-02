@@ -3,10 +3,10 @@ layout: santa
 category: santa
 title:  "Santa and the Frog."
 date:   2013-08-13 21:19:55
-image_thumbnail: /images/santa/IMG_0003.JPG
+image_thumbnail: /images/santa/IMG_3721.JPG
 ---
 
-<img src="/images/santa/IMG_0003.JPG" class="half-width left" />
+<img src="/images/santa/IMG_3721.JPG" class="half-width left" />
 
 When Santa awoke, the golden fleece lay on the ground. Her feet were bare, the left one frozen, the right one still asleep. Her head was spinning. A bad taste, dry lips. Ah. A typical Thursday morning. 
 

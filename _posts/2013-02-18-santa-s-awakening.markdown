@@ -3,10 +3,10 @@ layout: santa
 category: santa
 title:  "Santa's Awakening."
 date:   2013-02-18 21:19:55
-image_thumbnail: /images/santa/IMG_0003.JPG
+image_thumbnail: /images/santa/IMG_2499.JPG
 ---
 
-<img src="/images/santa/IMG_0003.JPG" class="half-width left" />
+<img src="/images/santa/IMG_2499.JPG" class="half-width left" />
 
 Oh goodness. Not again.
 

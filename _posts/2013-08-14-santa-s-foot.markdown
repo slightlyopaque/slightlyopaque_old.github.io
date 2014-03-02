@@ -3,10 +3,10 @@ layout: santa
 category: santa
 title:  "Santa's Foot."
 date:   2013-08-14 21:19:55
-image_thumbnail: /images/santa/IMG_0003.JPG
+image_thumbnail: /images/santa/IMG_3727.JPG
 ---
 
-<img src="/images/santa/IMG_0003.JPG" class="half-width left" />
+<img src="/images/santa/IMG_3727.JPG" class="half-width left" />
 
 
 

@@ -3,18 +3,10 @@ layout: santa
 category: santa
 title:  "Meet Santa, Everyone."
 date:   2012-12-08 21:19:55
-categories: santa
+image_thumbnail: /images/santa/IMG_2203.JPG
 ---
 
-<img src="/images/IMG_1670.JPG" class="half-width left" />
-
-asdasd
-
-
-![](http://s3-eu-west-1.amazonaws.com/slightlyopaque/images/87/large/Sketch_2013-12-15_13_55_36.png?1388495552)
-![](/images/IMG_1698.JPG)
-
-
+<img src="/images/santa/IMG_2203.JPG" class="half-width left" />
 
 Santa slept. As every year, this was the hardest time of the year for her.   
 This. Damn. Job.   
@@ -37,15 +29,13 @@ So. Where was she?
 
 Santa called in a meeting. Just a short catch-up, like: what did I miss over the last months?
 
-![Hover-Text](http://s3-eu-west-1.amazonaws.com/slightlyopaque/images/53/large/IMG_2214.JPG?1355004890)
-
+<img src="/images/santa/IMG_2214.JPG" class="half-width right" />
 "Seasons changed, people came, and moved again. Some turned into idiots, others showed character, as one might call it. But mostly it's the same."
 
 Santa was not surprised. Yet she felt extremely tired. And bored.
 
 After stumbling around some rotten villages and having visited every pub within five miles, she found a place to spend the night. No nightmares tonight. Only the comforting dullness of a deep and dreamless night. 
-
-![Hover-Text](http://s3-eu-west-1.amazonaws.com/slightlyopaque/images/51/large/IMG_2209.JPG?1355002554)
+<img src="/images/santa/IMG_2209.JPG" class="half-width left" />
 
 
 <img src="http://vg03.met.vgwort.de/na/24f2baf2a8e14ea99f5c9bdfe1145160" width="1" height="1" alt="">

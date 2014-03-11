@@ -160,6 +160,13 @@ footer {
   margin-left: 1.35em;
 }
 
+/*ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+*/
+
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -209,4 +216,10 @@ footer {
 
 .posts p {
 	/* padding-left: 161px; */
+}
+
+.list_inline li {
+display:inline;
+padding: 0 5px 0 0;
+font-family: Avenir; sans-serif;
 }

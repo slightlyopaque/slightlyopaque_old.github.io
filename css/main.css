@@ -193,6 +193,9 @@ footer {
 	width: 50%;
 }
 
+.third-width {
+	width: 33%;
+}
 
 .left {
 	float: left;

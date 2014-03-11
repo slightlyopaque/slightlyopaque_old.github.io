@@ -6,7 +6,7 @@
 
 /* Global Reset */
 * {
-  margin: 0;
+  margin: 15;
   padding: 0;
 }
 
@@ -35,8 +35,25 @@ a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
 nav {
-	text-align: right;
+	float: right;
+	margin-right: 2em;
+	}
+
+nav li
+{
+display:inline;
+padding: 0 5px 0 0;
+font-family: Avenir; sans-serif;
 }
+
+nav li a { 
+	color: #593e54;
+	text-decoration:none;
+	font-weight: 500;
+	}
+
+nav li a:hover   { color: #000; }
+nav li a:visited { color: #593e54; }
 
 /*****************************************************************************/
 /*

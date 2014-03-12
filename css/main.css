@@ -20,7 +20,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 115%; 
+  font-family: Avenir;
+  font-weight: 500;
+}
 
 h1 { margin: 2em 0 1em 0;}
 .post h1 {text-align: center; 

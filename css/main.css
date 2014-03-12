@@ -22,7 +22,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
+h1 { margin: 2em 0 1em 0;}
 .post h1 {text-align: center; 
 	font-size: 1.8em; 
 	 
@@ -31,13 +31,18 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a {  
-/*	color: #593e54;*/
+	color: #593E54;
 	text-decoration: none;
 	font-family: Avenir; sans-serif;
 }
 
 a:hover   { color: #000; }
 /*a:visited { color: #a0a; }*/
+
+.directory a {
+	float:right;
+	font-weight: 500;
+}
 
 #navigation_bar {
 	float: right;
@@ -90,7 +95,7 @@ font-family: Avenir; sans-serif;
 
 .posts li {
   line-height: 1.75em;
-  margin-bottom: 10px;
+  margin: 0 0px 15px 0;
   overflow: auto;
 }
 
@@ -98,7 +103,7 @@ font-family: Avenir; sans-serif;
 
 .posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: Avenir;
   font-size: 80%;
   float: right;
   padding: 0;
@@ -243,6 +248,8 @@ footer {
 
 .posts a {
 	display: block;
+	font-variant: small-caps;
+	font-size: medium;
 }
 
 .posts p {

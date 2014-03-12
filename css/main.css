@@ -31,10 +31,9 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a {  
-	color: #593e54;
+/*	color: #593e54;*/
 	text-decoration: none;
-	font-family: Avenir;
-	color: #593e54;
+	font-family: Avenir; sans-serif;
 }
 
 a:hover   { color: #000; }
@@ -66,10 +65,19 @@ font-family: Avenir; sans-serif;
 	/* font-size: 1em; */
 	/* font-weight: 100; */
 	font-variant: small-caps; 
-	font-family: Avenir;
+	font-family: Avenir; sans-serif;
 }
 
 #page-navigation a:hover   { color: #000; }
+
+.footer a { 
+	color: #593e54;
+	text-decoration: underline;
+	font-weight: 500;
+	font-family: Avenir; sans-serif;
+	}
+
+.footer a:hover   { color: #000; }
 /*****************************************************************************/
 /*
 /* Home
@@ -144,6 +152,7 @@ font-family: Avenir; sans-serif;
 
 .meta {
   color: #aaa;
+  font-family: Avenir;sans-serif;
 }
 
 footer {

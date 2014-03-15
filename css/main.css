@@ -84,18 +84,25 @@ font-family: Avenir; sans-serif;
 	font-size: 100%;
 }
 
-#navigation_bar li a:hover   { color: #000; }
 
-#page-navigation a {
+/* pagination */
+.pagination a:hover   { color: red; }
+
+.pagination a {
 	text-decoration:none;
 	color: #593e54;
-	/* font-size: 1em; */
-	/* font-weight: 100; */
 	font-variant: small-caps; 
 	font-family: Avenir; sans-serif;
 }
 
-#page-navigation a:hover   { color: #000; }
+.pagination .left {
+    float: left;
+}
+
+.pagination .right {
+    float: right;
+}
+
 
 /*.footer a { */
 #email {

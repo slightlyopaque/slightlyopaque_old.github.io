@@ -13,10 +13,18 @@
 html, body { height: 100%}
 
 body {
+	max-width:700px;
+	padding:12px 12px 0 12px;
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
+}
+
+@media only screen and (min-width: 481px) {
+	body {
+		padding: 24px 24px 0 24px;
+	}
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,8 +42,10 @@ h1 { margin: 2em 0 1em 0;}
 p { margin: 1em 0; }
 
 a {  
-	color: #593E54;
+	color: #695165;
 	font-family: Avenir; sans-serif;
+	text-decoration: none; 
+	font-size: 18px;
 }
 
 a:hover { 
@@ -43,12 +53,6 @@ a:hover {
 	text-decoration: none;
 }
 /*a:visited { color: #a0a; }*/
-
-div ul li a {
-	color: #593E54;
-	font-family: Avenir; sans-serif;
-	text-decoration: none;
-}
 
 
 .directory a {
@@ -72,7 +76,8 @@ font-family: Avenir; sans-serif;
 	color: #593e54;
 	text-decoration:none;
 	font-weight: 500;
-	}
+	font-size: 100%;
+}
 
 #navigation_bar li a:hover   { color: #000; }
 
@@ -93,6 +98,7 @@ font-family: Avenir; sans-serif;
 	text-decoration: underline;
 	font-weight: 500;
 	font-family: Avenir; sans-serif;
+	font-size: 100%;
 	}
 
 .footer a:hover   { color: #000; }
@@ -121,6 +127,7 @@ font-family: Avenir; sans-serif;
   float: right;
   padding: 0;
 }
+
 
 /*****************************************************************************/
 /*
@@ -262,7 +269,7 @@ footer {
 .posts a {
 	display: block;
 	font-variant: small-caps;
-	font-size: medium;
+	font-size: 18px;
 }
 
 .posts p {

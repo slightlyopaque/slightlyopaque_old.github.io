@@ -84,6 +84,26 @@ font-family: Avenir; sans-serif;
 	font-size: 100%;
 }
 
+#navigation_bar .has-dropdown {
+  position: relative;
+}
+
+#navigation_bar .has-dropdown ul {
+  position: absolute;
+  display: none;
+}
+
+#navigation_bar .has-dropdown ul li {
+  display: block;
+}
+
+#navigation_bar .has-dropdown ul li:hover {
+  background-color: lightgrey;
+}
+
+#navigation_bar .has-dropdown:hover ul {
+  display: block;
+}
 
 /* pagination */
 .pagination a:hover   { color: red; }

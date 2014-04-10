@@ -70,10 +70,12 @@ div ul li a {
 	margin-right: 2em;
 	}
 
+
 #navigation_bar li
 {
 display:inline;
 padding: 0 15px 0 0;
+float: left;         /* <-- fix for FF */
 font-family: Avenir; sans-serif;
 }
 

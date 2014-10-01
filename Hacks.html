@@ -1,0 +1,16 @@
+---
+layout: default
+title: Hacks 
+---
+
+  <h1>Hacky Hacks</h1>
+  <ul class="posts">
+    {% for post in site.categories.hacks %}
+  <li><span>{{ post.date | date_to_string }}</span> 
+<a href="{{ post.url }}">{{ post.title }}</a>
+<img src="{{post.image_thumbnail}}" />
+<p>{{ post.content | strip_html | truncatewords:75}}</p>
+
+ </li>
+{% endfor %}
+</ul>

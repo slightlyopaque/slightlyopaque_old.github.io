@@ -31,6 +31,6 @@ Have fun.
 
 
 
-[1] https://github.com/slightlyopaque/phoneNumberConverter-for-thunderbird
+[1]: https://github.com/slightlyopaque/phoneNumberConverter-for-thunderbird
 
 <img src="http://vg03.met.vgwort.de/na/47d2ab6afe3145c08d61b8fa2e681417" width="1" height="1" alt="">

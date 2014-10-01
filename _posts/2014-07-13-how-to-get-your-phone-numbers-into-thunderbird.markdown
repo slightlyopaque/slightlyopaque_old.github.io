@@ -23,12 +23,14 @@ My contacts (that had been stored in icloud) were missing phone numbers when I i
 My friend and I found out that Thunderbird doesn't support the version icloud gives out for the vcards.
 So we wrote a small script to convert the vcard into a version Thunderbird can compute and import (including phone numbers, yay).
 
-In case you have the same issue, here is the script. 
+In case you have the same issue, here is the [link to said script][1]: 
+
 Have fun.
 
-Keep in mind though, that you use it on your own risk. 
+! Keep in mind though, that you use it on your own risk. 
 
 
 
+[1] https://github.com/slightlyopaque/phoneNumberConverter-for-thunderbird
 
 <img src="http://vg03.met.vgwort.de/na/47d2ab6afe3145c08d61b8fa2e681417" width="1" height="1" alt="">

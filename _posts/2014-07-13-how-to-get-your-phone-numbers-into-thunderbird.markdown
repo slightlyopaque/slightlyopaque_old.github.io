@@ -27,7 +27,7 @@ In case you have the same issue, here is the [link to said script][1]:
 
 Have fun.
 
-! Keep in mind though, that you use it on your own risk. 
+! Keep in mind though, that you use it on your own risk.
 
 
 

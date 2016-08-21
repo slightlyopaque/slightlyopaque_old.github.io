@@ -19,7 +19,7 @@ image_thumbnail: /images/IMG_1707.JPG
 #### MacOs ev. zusätzlich:   
 [gpgtools.org][8]
 
-### For more information:  
+## For more information:  
 [securityinabox.org][1]  
 [cryptoparty-hamburg.de][2]   
 [keepass.info][5]   

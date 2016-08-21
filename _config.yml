@@ -1,3 +1,4 @@
 name: slightly opaque
-markdown: redcarpet
-pygments: true
+# markdown: redcarpet
+# pygments: true
+# rouge: true

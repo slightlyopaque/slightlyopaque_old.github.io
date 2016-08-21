@@ -2,10 +2,11 @@
 layout: hacks
 category: hacks
 title:  "Mail Encryption"
-date:   2016-08-21
+date:   2016-08-21 10:55:55
 image_thumbnail: /images/IMG_1707.JPG
 ---
 
+<img src="/images/IMG_1707.JPG" class="half-width right"/>   
 
 # Links
 

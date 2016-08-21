@@ -7,24 +7,24 @@ image_thumbnail: /images/IMG_1707.JPG
 ---
 
 
-# Links
+## Links
 
-## Download:  
-[Thunderbird][4]
-[Addon Enigmail][6]
+### Download:  
+[Thunderbird][4]   
+[Addon Enigmail][6]   
 
-### Windows zusätzlich:  
+#### Windows zusätzlich:  
 [Gpg4win][7]
 
-### MacOs ev. zusätzlich:   
+#### MacOs ev. zusätzlich:   
 [gpgtools.org][8]
 
-## For more information:  
+### For more information:  
 [securityinabox.org][1]  
-[cryptoparty-hamburg.de][2]
-[keepass.info][5]
+[cryptoparty-hamburg.de][2]   
+[keepass.info][5]   
 
-## Key-Server (beispielhaft):  
+### Key-Server (beispielhaft):  
 [pgp.mit.edu][3]
 
 

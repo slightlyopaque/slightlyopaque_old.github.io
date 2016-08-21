@@ -1,3 +1,12 @@
+---
+layout: hacks
+category: hacks
+title:  "Mail Encryption"
+date:   2016-08-21
+image_thumbnail: /images/IMG_1707.JPG
+---
+
+
 # Links
 
 ## Download:  

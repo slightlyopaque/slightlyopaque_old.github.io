@@ -1,30 +1,30 @@
 ---
 layout: hacks
 category: hacks
-title:  "Mail encrypt"
+title:  "Mail encryption mit PGP"
 date:   2016-08-21 12:14:55
 image_thumbnail: /images/IMG_1707.JPG
 ---
 
 
-## Links
+# Links
 
-### Download:  
+## Download:  
 [Thunderbird][4]   
 [Addon Enigmail][6]   
 
-#### Windows zusätzlich:  
+### Windows zusätzlich:  
 [Gpg4win][7]
 
-#### MacOs ev. zusätzlich:   
+### MacOs ev. zusätzlich:   
 [gpgtools.org][8]
 
-## For more information:  
+# For more information:  
 [securityinabox.org][1]  
 [cryptoparty-hamburg.de][2]   
 [keepass.info][5]   
 
-### Key-Server (beispielhaft):  
+## Key-Server (beispielhaft):  
 [pgp.mit.edu][3]
 
 

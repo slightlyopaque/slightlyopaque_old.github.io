@@ -3,9 +3,9 @@ layout: hacks
 category: hacks
 title:  "Mail encryption mit PGP"
 date:   2016-08-21 12:14:55
-image_thumbnail: /images/IMG_1707.JPG
+image_thumbnail: /images/qrcode.36339741.png
 ---
-
+<img src="/images/qrcode.36339741.png" class="half-width right"/> 
 
 # Download:  
 [Thunderbird][4]   

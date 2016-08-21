@@ -7,9 +7,7 @@ image_thumbnail: /images/IMG_1707.JPG
 ---
 
 
-# Links
-
-## Download:  
+# Download:  
 [Thunderbird][4]   
 [Addon Enigmail][6]   
 

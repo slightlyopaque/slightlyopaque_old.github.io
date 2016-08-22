@@ -5,9 +5,8 @@ title:  "Mail encryption mit PGP"
 date:   2016-08-21 12:14:55
 image_thumbnail: /images/IMG_1583.JPG
 ---
-<img src="/images/IMG_1583.JPG" class="half-width right"/> 
 
-h2. Download:  
+## Download:  
 [Thunderbird][4]   
 [Addon Enigmail][6]   
 
@@ -16,7 +15,7 @@ Windows zusätzlich:
 
 MacOs ggf. zusätzlich:   
 [gpgtools.org][8]   
-Note: zumindest neuere MacOs-Versionen scheinen mitgeschickte Keys automatisch zu importieren 
+_Note_: zumindest neuere MacOs-Versionen scheinen mitgeschickte Keys automatisch zu importieren 
 
 Linux zusätzlich:  
 Ubuntu: 

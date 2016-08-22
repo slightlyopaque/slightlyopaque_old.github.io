@@ -3,11 +3,11 @@ layout: hacks
 category: hacks
 title:  "Mail encryption mit PGP"
 date:   2016-08-21 12:14:55
-image_thumbnail: /images/IMG_1583.jpg
+image_thumbnail: /images/IMG_1583.JPG
 ---
-<img src="/images/IMG_1583.jpg" class="half-width right"/> 
+<img src="/images/IMG_1583.JPG" class="half-width right"/> 
 
-# Download:  
+h2. Download:  
 [Thunderbird][4]   
 [Addon Enigmail][6]   
 
@@ -22,7 +22,7 @@ Linux zusätzlich:
 Ubuntu: 
 sudo apt-get install gpg2
 
-# For more information (generell Crypto, nicht nur Mail-Verschlüsselung):  
+## For more information (generell Crypto, nicht nur Mail-Verschlüsselung):  
 [securityinabox.org][1]  
 [cryptoparty-hamburg.de/folien][2]   
 [keepass.info][5]   
@@ -30,7 +30,7 @@ sudo apt-get install gpg2
 Key-Server (beispielhaft):  
 [pgp.mit.edu][3]   
 
-# Cryptoparties (z.B. in Hamburg):  
+## Cryptoparties (z.B. in Hamburg):  
 [cryptoparty-hamburg.de][9] vom [CCC-HH][11]      
 [cryptoparty.in/hamburg][10]  
 

@@ -3,22 +3,22 @@ layout: hacks
 category: hacks
 title:  "Mail encryption mit PGP"
 date:   2016-08-21 12:14:55
-image_thumbnail: /images/qrcode.jpg
+image_thumbnail: /images/IMG_1583.jpg
 ---
-<img src="/images/qrcode.jpg" class="half-width right"/> 
+<img src="/images/IMG_1583.jpg" class="half-width right"/> 
 
 # Download:  
 [Thunderbird][4]   
 [Addon Enigmail][6]   
 
-## Windows zusätzlich:  
+Windows zusätzlich:  
 [Gpg4win][7]
 
-## MacOs ggf. zusätzlich:   
-[gpgtools.org][8]
+MacOs ggf. zusätzlich:   
+[gpgtools.org][8]   
 Note: zumindest neuere MacOs-Versionen scheinen mitgeschickte Keys automatisch zu importieren 
 
-## Linux zusätzlich:  
+Linux zusätzlich:  
 Ubuntu: 
 sudo apt-get install gpg2
 
@@ -27,11 +27,11 @@ sudo apt-get install gpg2
 [cryptoparty-hamburg.de/folien][2]   
 [keepass.info][5]   
 
-## Key-Server (beispielhaft):  
+Key-Server (beispielhaft):  
 [pgp.mit.edu][3]   
 
 # Cryptoparties (z.B. in Hamburg):  
-[CCC cryptoparty-hamburg.de][9]   
+[cryptoparty-hamburg.de][9] vom [CCC-HH][11]      
 [cryptoparty.in/hamburg][10]  
 
 
@@ -46,3 +46,4 @@ sudo apt-get install gpg2
 [8]: https://gpgtools.org/
 [9]: https://cryptoparty-hamburg.de
 [10]: https://www.cryptoparty.in/hamburg
+[11]: https://www.hamburg.ccc.de/

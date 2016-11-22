@@ -14,6 +14,6 @@ image_thumbnail: /images/IMG_1583.JPG
    </head>
    <body>
      <p>Website is vulnerable to clickjacking!</p>
-     <iframe src="https://web.int0002.gkh-setu.de/nl-be/women/underwear/" width="500" height="500"></iframe>
+     <iframe src="https://galeria-kaufhof.de/damen/" width="500" height="500"></iframe>
    </body>
 </html>

@@ -2,7 +2,7 @@
 layout: hacks
 category: hacks
 title:  "foo1"
-date:   2016-08-21 12:14:55
+date:   2016-11-22 12:14:55
 image_thumbnail: /images/IMG_1583.JPG
 ---
 

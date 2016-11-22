@@ -1,0 +1,19 @@
+---
+layout: hacks
+category: hacks
+title:  "foo1"
+date:   2016-08-21 12:14:55
+image_thumbnail: /images/IMG_1583.JPG
+---
+
+
+
+<html>
+   <head>
+     <title>Clickjack test page</title>
+   </head>
+   <body>
+     <p>Website is vulnerable to clickjacking!</p>
+     <iframe src="https://galeria-kaufhof.de/damen/" width="500" height="500"></iframe>
+   </body>
+</html>

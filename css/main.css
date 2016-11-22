@@ -29,7 +29,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 115%; 
-  font-family: Avenir; sans-serif;
+  font-family: Helvetica; sans-serif;
   font-weight: 500;
 }
 
@@ -37,13 +37,13 @@ h1 { margin: 2em 0 1em 0;}
 .post h1 {text-align: center; 
 	font-size: 1.8em; 
 	 
-	font-family: Avenir; sans-serif;
+	font-family: Helvetica; sans-serif;
 	margin-top: 1em;line-height: 1.3;font-weight: 100;font-variant: small-caps;}
 p { margin: 1em 0; }
 
 a {  
 	color: #593E54;
-	font-family: Avenir; sans-serif;
+	font-family: Helvetica; sans-serif;
 /*	text-decoration: none; 
 	font-size: 18px;*/
 }
@@ -56,7 +56,7 @@ a:hover {
 
 div ul li a {
 	color: #593E54;
-	font-family: Avenir; sans-serif;
+	font-family: Helvetica; sans-serif;
 	text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ div ul li a {
 display:inline;
 padding: 0 15px 0 0;
 float: left;         /* <-- fix for FF */
-font-family: Avenir; sans-serif;
+font-family: Helvetica; sans-serif;
 }
 
 #navigation_bar li a { 
@@ -114,7 +114,7 @@ font-family: Avenir; sans-serif;
 	text-decoration:none;
 	color: #593e54;
 	font-variant: small-caps; 
-	font-family: Avenir; sans-serif;
+	font-family: Helvetica; sans-serif;
 }
 
 .pagination .left {
@@ -131,7 +131,7 @@ font-family: Avenir; sans-serif;
 	color: #593e54;
 	text-decoration: underline;
 	font-weight: 500;
-	font-family: Avenir; sans-serif;
+	font-family: Helvetica; sans-serif;
 	font-size: 100%;
 	}
 
@@ -156,7 +156,7 @@ font-family: Avenir; sans-serif;
 
 .posts span {
   color: #aaa;
-  font-family: Avenir; sans-serif;
+  font-family: Helvetica; sans-serif;
   font-size: 80%;
   float: right;
   padding: 0;
@@ -190,7 +190,7 @@ font-family: Avenir; sans-serif;
 
 .title a {
 	color: #593e54;
-	font-family: Ff-dax-compact-web-pro, Avenir, Arial;
+	font-family: Ff-dax-compact-web-pro, Helvetica, Arial;
 	font-weight: 300;
 	font-size: 72px;
 	text-decoration: none;
@@ -211,7 +211,7 @@ font-family: Avenir; sans-serif;
 
 .meta {
   color: #aaa;
-  font-family: Avenir;sans-serif;
+  font-family: Helvetica;sans-serif;
 }
 
 footer {
@@ -313,5 +313,5 @@ footer {
 .list_inline li {
 display:inline;
 padding: 0 5px 0 0;
-font-family: Avenir; sans-serif;
+font-family: Helvetica; sans-serif;
 }

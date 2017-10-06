@@ -172,7 +172,7 @@ font-family: Helvetica; sans-serif;
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 45em;
+  width: 60em;
   margin: 3em auto 2em;
   line-height: 1.5em;
   min-height: 800px;
@@ -226,6 +226,9 @@ footer {
 }
 
 
+.site ul, .site ol {
+  margin-left: 1.35em;
+}
 /*****************************************************************************/
 /*
 /* Posts

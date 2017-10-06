@@ -1,7 +1,7 @@
 ---
 layout: hacks
 category: hacks
-title:  "Mail encryption mit PGP"
+title:  "Mail Encryption mit PGP"
 date:   2016-08-21 12:14:55
 image_thumbnail: /images/IMG_1583.JPG
 ---

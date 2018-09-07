@@ -1,6 +1,6 @@
 name: slightly opaque
 permalink: none
 # markdown: redcarpet
-# theme: minima
+theme: jekyll-theme-prologue
 # pygments: true
 # rouge: true

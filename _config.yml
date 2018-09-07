@@ -1,5 +1,6 @@
 name: slightly opaque
 permalink: none
 # markdown: redcarpet
+theme: minima
 # pygments: true
 # rouge: true
